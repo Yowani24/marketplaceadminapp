@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "xxxxx bb bbb gg",
+      "email": "amanda@gmal.com",
+      "id": "b3a3"
+    },
+    {
+      "name": "vvvv bbb",
+      "email": "amanda@gmal.com",
+      "id": "18a1"
+    }
+  ],
+  "stores": [
+    {
+      "id": "7ccd",
+      "name": "Casa do Sabão",
+      "status": "active",
+      "produtos": "0",
+      "pedidos": 0,
+      "receita": 0,
+      "url": "http://localhost:3000/stores-management"
+    },
+    {
+      "id": "4b77",
+      "name": "Casa do Sabonete",
+      "status": "active",
+      "produtos": 0,
+      "pedidos": 0,
+      "receita": 0,
+      "url": "http://localhost:3000/stores-management"
+    },
+    {
+      "id": "bd1f",
+      "name": "Casa do Omo",
+      "status": "inactive",
+      "produtos": 0,
+      "pedidos": 0,
+      "receita": 0,
+      "url": "http://localhost:3000/stores-management"
+    },
+    {
+      "id": "61d6",
+      "name": "Casa do bolo",
+      "status": "pending",
+      "produtos": 0,
+      "pedidos": 0,
+      "receita": 0,
+      "url": "http://localhost:3000/stores-management"
+    }
+  ]
+}
